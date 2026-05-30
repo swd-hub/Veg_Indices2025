@@ -1,0 +1,11 @@
+CustomよりHighの方が容量大きい　画質は同程度
+Lowは明らかに画質が低下する
+
+結論
+Highｇで保存する
+
+
+B2,B3,B4,B8,B11
+
+定点観測 斐川平田
+https://browser.dataspace.copernicus.eu/?zoom=13&lat=35.43137&lng=132.85432&themeId=AGRICULTURE&visualizationUrl=U2FsdGVkX19k4uP2E4vqSlG4LKY8xsHRC91ZQZj7ZOxzMwTpLbQqunD26NTzGifi%2BLItpf22G%2BjJkGcjx%2FbxzpJ%2FZEeMl6Diw9Y5D7LWVef%2F2S0fcABifZV23Q1rLBFv&datasetId=S2_L2A_CDAS&fromTime=2026-05-19T00%3A00%3A00.000Z&toTime=2026-05-19T23%3A59%3A59.999Z&layerId=1_TRUE-COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
